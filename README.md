@@ -1,5 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
 # IAPR-2- Module 2 - FoC
+# NAME : Kevin P
+# REGNO : 212224040159
 ## 3. Implementation of programs using conditional statements.
 ## 4. Implementation of programs using various control statements.
 # Ex.No:6
